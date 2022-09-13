@@ -2,7 +2,7 @@ package com.sample;
 
 public class AppTest {
 	public static void main(String[] args) {
-		String str = "mY nAME iS tAMIZH";
+		String str = "mY nAME iS vENKAT";
 		
 		String[] strArr = str.split(" ");
 		for(int i=strArr.length-1; i>=0; i--) {
